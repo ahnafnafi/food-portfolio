@@ -42,13 +42,6 @@ h1{
     box-shadow: 10px 10px 40px gray;
     border-radius: 10px;
 }
-.Credentials{
-    background-image: url(images/exp-bg.png);
-    background-repeat: no-repeat;
-    background-position: left;
-    text-align: center;
-    
-}
 .image{
     width: 80%;
 }
