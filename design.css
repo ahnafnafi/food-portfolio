@@ -10,6 +10,7 @@ h1{
 }
 .flexible_container{
     display: flex;
+    flex-wrap: nowrap;
     margin-bottom: 150px;
 }
 .half_width{
